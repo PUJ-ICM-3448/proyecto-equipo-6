@@ -1,5 +1,5 @@
-# proyecto-equipo-6
-Proyecto equipo 6 - 
+# PinAR
+PinAR - Equipo 6
 
 ## Entrega 0- Presentación propuesta
 
