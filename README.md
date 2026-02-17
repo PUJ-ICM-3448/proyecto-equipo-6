@@ -19,7 +19,3 @@ PinAR.
    foto.....
 
    Tengo 21 años y estoy en 6 semestre de ingeniería de Sistemas. me gusta todo lo relacionado a Desarrollo web, por lo que también me interesa aprender todo el tema de computación móvil. Me gusta fuera de lo de la carrera los videojuegos, el fútbol, ver peliculas/series, los perros. 
-
-## Presentacion Grupo 6 para entrega 0 - PinAR
-
-https://www.canva.com/design/DAHA1rvB9bw/tZ8cAQjkkz2FbHNFJp5Y1g/edit?utm_content=DAHA1rvB9bw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
