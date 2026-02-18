@@ -26,7 +26,7 @@ Aplicación de realidad aumentada enfocada en ayuda a las personas a guiarse en 
 
 ### Carlos Daniel Guiza  
 
-<img src="/img/daniel.jpg"/>
+<img src="/img/daniel.jpg" width="100" height="100"/>
 
 Tengo 21 años y actualmente estoy en sexto semestre de Ingeniería de Sistemas.  
 Me gusta el desarrollo web, por lo que también me interesa aprender y profundizar en el área de computación móvil.
