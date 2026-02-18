@@ -42,7 +42,7 @@ Me intereso principalmente en temas de ciberseguridad y desarrollo web. Actualme
 Fuera de la carrera, soy apasionado por el cine, y he trabajado en varios proyectos de cortometrajes de cine análogo. 
 
 ### Andres Felipe Beltran
-<img src="img/andres.png" width="100" height="100">
+<img src="img/andres.jpeg" width="100" height="100">
 
 Tengo 20 años y estoy en sexto semestre de Ingeniería de sistemas en la Javeriana.
 Estoy interesado en desarrollo web, pero no estoy cerrado a aprender otras areas relacionadas. 
